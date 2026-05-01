@@ -24,3 +24,6 @@ extra/exe-builder/obj
 
 .vs
 .vscode
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
